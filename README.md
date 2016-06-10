@@ -1,5 +1,5 @@
-name : Yoad Shiran,
-EX4 - serverudp.
+Yoad Shiran,
+EX4 - Server UDP.
 Submitted files:
 	1. list.c - create lists.
 	2. list.h - header of list.c
