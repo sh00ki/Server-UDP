@@ -1,3 +1,9 @@
+A Simple UDP_server Written in C
+===============================
+
+This is a simple UDP_server written in the C programming language.
+
+
 Author : Yoad Shiran,
 
 EX4 - Server UDP.
@@ -12,10 +18,7 @@ Submitted files:
 
 Remarks : none.
 
-A Simple UDP_server Written in C
-===============================
 
-This is a simple UDP_server written in the C programming language.
 
 
 
