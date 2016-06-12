@@ -1,4 +1,4 @@
-// Yoad Shiran - 302978713
+// Yoad Shiran
 
 #include <stdio.h>
 #include <string.h>
